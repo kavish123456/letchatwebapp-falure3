@@ -1,0 +1,22 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+  background-image: url("backgroundcolour.png");
+}
+
+.login_div
+{
+	background: rgba(255,255,255,0.8);
+  float: none;
+  border-radius: 15px;
+}
+
+.Calligraffitti
+{
+  font-family: 'Calligraffitti', cursive;
+}
